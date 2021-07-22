@@ -4,11 +4,11 @@ Imagine we have a site that displays efficiency statistics of client solar power
 
 Task should take no longer than 6h. All visuals including assets will be provided in Figma which we use daily in PVcase. 
 
-##Stack we expect you will use:
+## Stack we expect you will use:
 - React
 - PostCSS || SCSS || SASS || CSS
 
-##We will judge:
+## We will judge:
 - Semantic HTML, 
 - Accesibility, 
 - knowledge of CSS, 
