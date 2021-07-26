@@ -14,3 +14,8 @@ Task should take no longer than 6h. All visuals including assets will be provide
 - knowledge of CSS, 
 - React state handling, 
 - ES5+
+
+## Submision: 
+After you've finished - push to your git and send a public link to a recruiter. We will take care of the rest. 
+
+Have a lot of fun and feel free to share anything with us! 
